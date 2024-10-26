@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my_blog/static/css/main.7ab3912f.css",
-    "main.js": "/my_blog/static/js/main.32f3ca67.js",
+    "main.js": "/my_blog/static/js/main.1172e548.js",
     "static/media/subwaysurfers-demo.mp4": "/my_blog/static/media/subwaysurfers-demo.9d1cd049cd4585761a6e.mp4",
     "static/media/Proffecionalpic.png": "/my_blog/static/media/Proffecionalpic.114ee398413dddca0fb9.png",
     "index.html": "/my_blog/index.html",
     "main.7ab3912f.css.map": "/my_blog/static/css/main.7ab3912f.css.map",
-    "main.32f3ca67.js.map": "/my_blog/static/js/main.32f3ca67.js.map"
+    "main.1172e548.js.map": "/my_blog/static/js/main.1172e548.js.map"
   },
   "entrypoints": [
     "static/css/main.7ab3912f.css",
-    "static/js/main.32f3ca67.js"
+    "static/js/main.1172e548.js"
   ]
 }
