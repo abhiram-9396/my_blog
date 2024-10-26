@@ -13,14 +13,11 @@ const HomeScreen = () => {
             <Col style={{display:'flex', justifyContent:'center', alignItems:'center',}}>
               <Card id="profile" style={{ width:'35rem',  boxShadow: '2px black', padding: '3rem', marginTop: '3rem', fontFamily:'Arima', fontWeight:'600' }}>
                 <Card.Body>
-                  <Card.Title style={{fontWeight:'700'}}>Summary</Card.Title>
+                  <Card.Title style={{fontWeight:'700'}}><h3>Summary</h3></Card.Title>
                   <Card.Text>
-                  A proactive Software Engineering Intern with demonstrated expertise as a Software Engineer, adept at developing tools that
-                  enhance workflow efficiency. Participated in significant projects like Wealthzen, implementing full-stack solutions in the MERN
-                  stack to improve project delivery and client satisfaction. Organized team coordination to ensure successful implementation of
-                  project requirements. Committed to applying technical skills and experience to develop robust systems aiming for high-quality
-                  outcomes and dependable fraud detection in Scale's contributor platforms. A good Team player and having the ability to learn
-                  and pickup new technologies, languages, design patterns etc.
+                  Full-stack developer with 2 years of experience, currently pursuing masters in the field of Computer Science in the University Of Central Missouri.
+Experience in working with product-based startups - Wealthzen.ai, Growsari and building production-ready applications using MERN stack, GIT, Python, JavaScript, Node, Microservices, Docker, Firebase, jQuery, MySQL, and also worked on cloud services- Serverless, DynamoDB, Amazon SQS, SES, SNS, lambda, ELK stack.
+Passionate about Data Structures, Problem Solving. Experience in working with RestAPI's for building web applications. Looking forward to explore Data Analytics field. Committed to apply technical skills and experience to develop robust systems aiming for high-quality outcomes. A good Team player and having the ability to learn and pickup new technologies, languages, design patterns etc.
                   </Card.Text>
                   
                 </Card.Body>
