@@ -1,22 +1,21 @@
 import './App.css';
 import React from 'react';
-import Home from './pages/HomeScreen'
+import Home from './pages/HomeScreen';
 import ExperienceScreen from './pages/ExperienceScreen';
 import SkillsScreen from './pages/SkillsScreen';
 import ProjectsScreen from './pages/ProjectsScreen';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
-        <Route path="/" exact element={<Home />} />
-        <Route path="/Home" exact element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/experience" exact element={<ExperienceScreen />} />
-        <Route path="/skills" exact element={<SkillsScreen />} />
-        <Route path="/projects" exact element={<ProjectsScreen />} />
+        <Route path="/skills" element={<SkillsScreen />} />
+        <Route path="/projects" element={<ProjectsScreen />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
