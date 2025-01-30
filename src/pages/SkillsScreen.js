@@ -10,7 +10,8 @@ const SkillsScreen = () => {
     ["HTML", "CSS", "jQuery", "Bootstrap"],
     ["GitHub", "Git", "iOS & Android Development", "Django", "OpenCV", "Streamlit"],
     ["Expo", "React Native", "ELK Stack", "Docker"],
-    ["Docket", "GraphQL", "Flask", "Data Structures", "Project Management", "AWS Serverless"]
+    ["Firebase", "GraphQL", "Flask", "Data Structures", "Project Management", "AWS Serverless"],
+    ["Project Management", "Communication", "Presentation", "Testing", "Debugging"]
   ];
 
   return (

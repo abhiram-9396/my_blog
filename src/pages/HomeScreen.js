@@ -30,7 +30,7 @@ Passionate about Data Structures, Problem Solving. Experience in working with Re
               <div class="card-body">
                 <h5 class="card-title">Get In Touch</h5>
                 <p class="card-text">
-                  <a>abhiramgatgmail.com</a> <br/>
+                  <a>abhiramgat@gmail.com</a> <br/>
                   <a>+19132186902</a>
                 </p>
               </div>
