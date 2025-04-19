@@ -15,7 +15,7 @@ const HomeScreen = () => {
                 <Card.Body>
                   <Card.Title style={{fontWeight:'700'}}><h3>Summary</h3></Card.Title>
                   <Card.Text>
-                  Full-stack developer with 2 years of experience, currently pursuing masters in the field of Computer Science in the University Of Central Missouri.
+                  Full-stack developer with 3+ years of experience, currently pursuing masters in the field of Computer Science in the University Of Central Missouri.
 Experience in working with product-based startups - Wealthzen.ai, Growsari and building production-ready applications using MERN stack, GIT, Python, JavaScript, Node, Microservices, Docker, Firebase, jQuery, MySQL, and also worked on cloud services- Serverless, DynamoDB, Amazon SQS, SES, SNS, lambda, ELK stack.
 Passionate about Data Structures, Problem Solving. Experience in working with RestAPI's for building web applications. Looking forward to explore Data Analytics field. Committed to apply technical skills and experience to develop robust systems aiming for high-quality outcomes. A good Team player and having the ability to learn and pickup new technologies, languages, design patterns etc.
                   </Card.Text>

@@ -15,21 +15,19 @@ const ExperienceScreen = () => {
                 <Card.Title style={{ fontWeight: '900' }}>RIKTAM TECHNOLOGIES</Card.Title>
                 <Card.Text>
                   <p>
-                    I'm a full-stack developer with 2 years of experience, currently pursuing a master's in the field of Computer Science at the University Of Central Missouri.
-                    <br /><br />
-                    Experience in working with product-based startups - Wealthzen.ai, Growsari, and building production-ready applications using MERN stack, GIT, Python, JavaScript, Node, Microservices, Docker, Firebase, jQuery, MySQL, and also worked on cloud services - Serverless, DynamoDB, Amazon SQS, SES, SNS, lambda, ELK stack.
-                    <br /><br />
-                    Passionate about Data Structures, Problem Solving Skills for Object Oriented Programming (OOP). Experience working with REST APIs for building web applications. Looking forward to exploring the Data Analytics field.
+                  Proficient MERN stack developer, experienced in developing Dynamic and responsive full-stack  applications and collaborating in Agile environments to deliver high-quality software solutions. <br /><br />
+                  Built robust and scalable RESTful APIs, enabling efficient data exchange and integration for web and mobile applications.<br /><br />
+                  Structured and deployed scalable and highly available cloud architectures using AWS services such as Lambda, S3, VPC, DynamoDB, API Gateway and CloudFront, collaborating in Agile environments to deliver high-quality software solutions.
+                  <br /><br />
                   </p>
                   <p>
-                    <b>SOFTWARE ENGINEER (02/2022 - 12/2023)</b>
+                    <b>SOFTWARE ENGINEER (02/2021 - 12/2023)</b>
                     <br /><br />
                     <ul>
-                      <li>Developed full-stack web applications using the MERN stack, enhancing user experience and functionality, and incorporating MongoDB for efficient data management.</li>
-                      <li>Contributed to major projects Wealthzen and Growsari by implementing features using HTML, CSS, JavaScript, and MongoDB, improving project efficiency and client satisfaction.</li>
-                      <li>Managed a team effectively by coordinating tasks and fostering collaboration, leading to improved project delivery times and aligning with product engineering goals.</li>
-                      <li>Communicated with clients to gather project requirements using effective questioning techniques, ensuring clear understanding and successful project outcomes.</li>
-                      <li>Guided junior team members during their internships by solving technical doubts, which enhanced their learning experience and contributed to team productivity and collaborative culture.</li>
+                      <li>Developed and deployed 5+ full-stack web applications using the MERN stack, with a focus on user-centric design and efficient data management using SQL & DynamoDB, showcasing strong attention to detail throughout the development lifecycle.</li>
+                      <li>Played a key role in high-impact projects like Wealthzen and Growsari, where I implemented scalable, cloud-based features that enhanced platform performance and boosted client satisfaction by 30%, demonstrating sharp problem-solving capabilities.</li>
+                      <li>Collaborated closely with cross-functional microservices teams (Saripay, Growcoins, ms-stores, ms-iam), aligning backend systems and frontend interfaces through effective communication and organizational skills, resulting in a 25% improvement in project delivery timelines.</li>
+                      <li>Ensured application robustness by executing comprehensive unit testing using Jest and Postman, reducing bugs by 40% and significantly enhancing the stability and reliability of production releases.</li>
                     </ul>
                   </p>
                 </Card.Text>

@@ -5,13 +5,14 @@ import Footer from '../components/Footer.js';
 
 const SkillsScreen = () => {
   const skills = [
-    ["Python", "JavaScript", "MongoDB", "Express.JS"],
+    ["Python", "JavaScript", "MongoDB", "Express.JS", "ejs"],
     ["Node JS", "React", "ELK Stack", "AWS DynamoDB", "AWS Opensearch", "AWS Lambda"],
-    ["HTML", "CSS", "jQuery", "Bootstrap"],
-    ["GitHub", "Git", "iOS & Android Development", "Django", "OpenCV", "Streamlit"],
-    ["Expo", "React Native", "ELK Stack", "Docker"],
+    ["HTML", "CSS", "jQuery", "Bootstrap", "MVC Design pattern"],
+    ["GitHub", "Git", "Django", "OpenCV", "Streamlit"],
     ["Firebase", "GraphQL", "Flask", "Data Structures", "Project Management", "AWS Serverless"],
-    ["Project Management", "Communication", "Presentation", "Testing", "Debugging"]
+    ["Expo", "React Native", "ELK Stack", "Docker", "Android Studio"],
+    ["Project Management", "Communication", "Presentation", "Testing", "Debugging"],
+    ["Unix/Linux", "Jest", "Apache Airflow", "bash", "PowerShell", "webpack"]
   ];
 
   return (
@@ -21,7 +22,7 @@ const SkillsScreen = () => {
         {skills.map((group, index) => (
           <Row key={index} className="mb-3" style={{ justifyContent: 'center' }}>
             {group.map((skill, skillIndex) => (
-              <Col xs={6} sm={4} md={3} lg={2} className="d-flex justify-content-center m-1" key={skillIndex}>
+              <Col xs={4} sm={4} md={3} lg={2} className="d-flex justify-content-center m-1" key={skillIndex}>
                 <button id="pill" className="button">{skill}</button>
               </Col>
             ))}

@@ -16,7 +16,7 @@ const ProjectsScreen = () => {
                   <Card.Title style={{fontWeight:'900'}}>Subway Surfers Game Using Hand Gestures</Card.Title>
                   <Card.Text>
                   <p>
-                    This is my Undergraduate Project, where I worked on playing the subway surfers game by using the hand gestures. I worked on Palm Detection models and Hand Landmarking Techniques using OpenCV in Python to detect the hand gestures made by the user and bind the gestures to the arrow keys to play the game. I have done research on how to reduce the latency and strived to achieve the best results in the user interaction with the interface.
+                    This is my Undergraduate Project, where I worked on playing the subway surfers game by using the hand gestures. I worked on Palm Detection models and Hand Landmarking Techniques using OpenCV in Python to detect the hand gestures made by the user and bind the gestures to the arrow keys to play the game. Conducted extensive research on computer vision and real-time processing, analyzing multiple research papers to implement low-latency hand tracking and published a research paper explaining the project to <b>ICDECT-2022</b>.
                   </p>
                   <video class="object-fit-contain" width="75%" height="100%" autoplay controls>
                     <source src={require('../assets/subwaysurfers-demo.mp4')} type="video/ogg"/>
@@ -56,7 +56,7 @@ const ProjectsScreen = () => {
                   <Card.Title style={{fontWeight:'900'}}>Expense Tracker app</Card.Title>
                   <Card.Text>
                   <p>
-                  Track your expenses effortlessly with this user-friendly Expense Tracker app. Built with React Native for Android, this intuitive tool lets you easily record and categorize your expenditures, set budgets, and gain valuable insights into your financial habits. Stay in control of your finances, all within the convenience of your Android device.
+                  Meticulously crafted an Expense Tracker Android/IOS application using React Native and Firebase, intuitively allowing users to easily record expenses, set budgets, and gain insight into their financial habits by reducing manual expense recording time by 70% compared to spreadsheet methods.
                   </p>
                   </Card.Text>
                   <Button style={{borderRadius: '16px'}} variant="dark" target='_blank' href='https://expo.dev/accounts/abhiram13/projects/Expense-Tracker/builds/116348f6-fa9d-40d8-83cc-4b7898267b0b'>
